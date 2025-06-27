@@ -6,7 +6,7 @@ This project provides a user-friendly invoice generation tool for freelancers, s
 
 ## ⛰️ Preview
 
-![806shots_so](https://github.com/pranavp10/invoice-generator/assets/49075129/403cffa1-b540-4d62-a9bd-c3c216802fe1)
+![806shots_so](https://github.com/futuresea-ai/invoice-generator/assets/49075129/403cffa1-b540-4d62-a9bd-c3c216802fe1)
 
 ## Key Features
 
